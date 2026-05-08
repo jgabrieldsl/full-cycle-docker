@@ -79,9 +79,3 @@ Os containers revolucionaram a forma como desenvolvemos, implantamos e executamo
 - **Docker Documentation**: [https://docs.docker.com/](https://docs.docker.com/)
 - **Open Container Initiative**: [https://opencontainers.org/](https://opencontainers.org/)
 - **Docker vs. Virtual Machines**: [https://www.docker.com/resources/what-container/](https://www.docker.com/resources/what-container/)
-nte evolução.
-
-Referências
-Docker Documentation: https://docs.docker.com/
-Open Container Initiative: https://opencontainers.org/
-Docker vs. Virtual Machines: https://www.docker.com/resources/what-container/
